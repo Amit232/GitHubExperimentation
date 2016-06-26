@@ -1,0 +1,1 @@
+This file is just adding a commit to the master branch to check if proper PR template is generated or not after add->commit->push
