@@ -1,0 +1,2 @@
+This PR checks whether the template is generated or not.
+This is a dummy PR.
